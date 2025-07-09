@@ -1,1 +1,1 @@
-# fullstack-open
+Este repositorio contiene los ejercicios realizados durante el curso **[Full Stack Open](https://fullstackopen.com/es/)** dictado por la Universidad de Helsinki.
