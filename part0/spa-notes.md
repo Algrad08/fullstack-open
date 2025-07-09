@@ -1,8 +1,8 @@
 ```mermaid
 sequenceDiagram
-    participant server
-    participant browser
     participant user
+    participant browser
+    participant server
 
     user->>browser: write text and click "Save" button
     browser->>server: POST /new_note_spa with the text

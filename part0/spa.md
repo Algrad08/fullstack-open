@@ -1,8 +1,8 @@
 ```mermaid
 sequenceDiagram
-    participant server
-    participant browser
     participant user
+    participant browser
+    participant server
 
     user->>browser: go to /spa
     browser->>server: GET /spa
